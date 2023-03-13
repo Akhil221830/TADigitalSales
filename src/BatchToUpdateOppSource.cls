@@ -1,5 +1,6 @@
 global class BatchToUpdateOppSource implements Database.Batchable<sObject> 
 {
+    //added comment bhy sudhendra
     global Database.QueryLocator start( Database.BatchableContext BC ) 
     {
         return Database.getQueryLocator( [SELECT Id,
