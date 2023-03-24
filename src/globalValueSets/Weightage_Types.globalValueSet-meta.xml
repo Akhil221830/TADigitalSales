@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Must have</fullName>
+        <default>true</default>
+        <label>Must have</label>
+    </customValue>
+    <customValue>
+        <fullName>Nice to have</fullName>
+        <default>false</default>
+        <label>Nice to have</label>
+    </customValue>
+    <masterLabel>Weightage Types</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
